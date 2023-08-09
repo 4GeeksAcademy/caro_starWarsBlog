@@ -1,0 +1,20 @@
+/* single.css */
+.red-line {
+    width: 100%;
+    height: 2px;
+    background-color: red;
+    margin-bottom: 20px; /* Ajusta este valor para dar espacio entre la línea y el contenido siguiente */
+}
+
+/* single.css */
+/* single.css */
+.properties-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; /* Ajusta este valor según sea necesario */
+}
+
+.property {
+    color: red;
+    margin: 0 85px; /* Ajusta los márgenes horizontales según sea necesario */
+}
